@@ -67,21 +67,21 @@ Hardware layout for Evgeny Ugryumov's WD1793/MB8877/ВГ93 floppy disk controlle
   
 ## Инструкция по прошивке
 
-Для прошивки нам понадобится прогрямматор.
-Его можно изготовить из arduino [LarduinoISP](Programmer/LarduinoISP.zip)
-Либо из RP2040 [LarduinoISP](Programmer/RP2040_HRDY_LarduinoISP_Prog.zip)
-
-Далее прошить при помощи [AVRDUDESS](Programmer/AVRDUDESS-2.18-portable.zip)  
-
-Прошивки [тут](Firmware)
-Новые прошивки можно найти в канале [ZX-FLOPPY](https://t.me/zx_floppy)
-
-## 👥 Авторство и благодарности (Credits)
-
-Особая благодарность Евгению Угрюмову за проделанную работу [ZX-FLOPPY](https://t.me/zx_floppy).
-Александру UR4QBP за массу эксперементов. Его реализация проекта [тут](https://www.youtube.com/live/jW95_YxV7ts?si=LEU0tBd916IoQcGA)
-HRDY [Дмитрию](https://github.com/demyanenko-d) за реализацию программатора на базе RP2040
+Для прошивки нам понадобится прогрямматор.  
+Его можно изготовить из arduino [LarduinoISP](Programmer/LarduinoISP.zip)  
+Либо из RP2040 [LarduinoISP](Programmer/RP2040_HRDY_LarduinoISP_Prog.zip)  
   
-## 📄 Лицензия
+Далее прошить при помощи [AVRDUDESS](Programmer/AVRDUDESS-2.18-portable.zip)  
+  
+Прошивки [тут](Firmware)  
+Новые прошивки можно найти в канале [ZX-FLOPPY](https://t.me/zx_floppy)  
+  
+## 👥 Авторство и благодарности (Credits)  
+  
+Особая благодарность Евгению Угрюмову за проделанную работу [ZX-FLOPPY](https://t.me/zx_floppy).  
+Александру UR4QBP за массу эксперементов. Его реализация проекта [тут](https://www.youtube.com/live/jW95_YxV7ts?si=LEU0tBd916IoQcGA)  
+HRDY [Дмитрию](https://github.com/demyanenko-d) за реализацию программатора на базе RP2040  
+  
+## 📄 Лицензия  
 Проект распространяется под лицензией MIT. Подробности в файле `LICENSE`.
 
