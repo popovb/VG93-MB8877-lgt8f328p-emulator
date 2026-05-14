@@ -30,7 +30,7 @@ Hardware layout for Evgeny Ugryumov's WD1793/MB8877/ВГ93 floppy disk controlle
   
 Было выпущено 3 ревизии эмулятора.
   
-### 1 Первая ревизия (не рекомендуется для повторения)
+### Первая ревизия (не рекомендуется для повторения)
   
 [Схема](Export/ВГ93-LGT_v1.1.pdf) [Монтаж](Export/ВГ93-LGT_v1.1.html) [Gerber](Gerber/VG93-LGT_1.1_GERBER.zip)
   
@@ -40,7 +40,7 @@ Hardware layout for Evgeny Ugryumov's WD1793/MB8877/ВГ93 floppy disk controlle
 ![](Foto/ВГ93-LGT_v1.1_2.png)  
   
   
-### 2 Вторая ревизия (используются диоды)
+### Вторая ревизия (используются диоды)
   
 [Схема](Export/ВГ93-LGT_v1.2.pdf) [Монтаж](Export/ВГ93-LGT_v1.2.html) [Gerber](Gerber/VG93-LGT_1.2_GERBER.zip)
   
@@ -48,7 +48,7 @@ Hardware layout for Evgeny Ugryumov's WD1793/MB8877/ВГ93 floppy disk controlle
 ![](Foto/ВГ93-LGT_v1.2_2.png)  
   
   
-### 3 Третья ревизия (используется 74AHC1G08)
+### Третья ревизия (используется 74AHC1G08)
   
 [Схема](Export/ВГ93-LGT_v1.3.pdf) [Монтаж](Export/ВГ93-LGT_v1.3.html)
   
